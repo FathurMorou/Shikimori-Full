@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
-  "version": "1.1.5",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "name": "Shikimori-Md",
+  "version": "5.7.5",
+  "description": "Shikimori Md, Only update in YouTube LingZi",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,10 +14,10 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Fathur",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:zeeone-ofc/baileys",
+    "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^7.0.0",
